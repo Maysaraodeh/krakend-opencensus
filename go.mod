@@ -1,4 +1,4 @@
-module github.com/maysaraodeh/krakend-opencensus/v4
+module github.com/maysaraodeh/krakend-opencensus/v4.0.1
 
 go 1.17
 
