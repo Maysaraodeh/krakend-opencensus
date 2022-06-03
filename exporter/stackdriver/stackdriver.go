@@ -7,7 +7,7 @@ import (
 
 	"contrib.go.opencensus.io/exporter/stackdriver"
 	"contrib.go.opencensus.io/exporter/stackdriver/monitoredresource"
-	opencensus "github.com/krakendio/krakend-opencensus/v2"
+	opencensus "github.com/maysaraodeh/krakend-opencensus/v2"
 )
 
 func init() {
